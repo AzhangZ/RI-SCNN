@@ -1,2 +1,2 @@
 # RI-SCNN
-RI-SCNN open source code
+RI-SCNN code will be available after publication.
